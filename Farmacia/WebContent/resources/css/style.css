@@ -9,6 +9,7 @@
 	overflow: visible !important;
 }
 
-body {
-	background-color: #FFFFFF;
+/* Diminui a fonte */
+.ui-widget, .ui-widget .ui-widget {
+font-size: 95% !important;
 }
